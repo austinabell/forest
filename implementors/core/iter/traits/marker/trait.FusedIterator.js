@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["bitfield"] = [{"text":"impl&lt;'_&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/iter/traits/marker/trait.FusedIterator.html\" title=\"trait core::iter::traits::marker::FusedIterator\">FusedIterator</a> for <a class=\"struct\" href=\"bitfield/rleplus/struct.Ranges.html\" title=\"struct bitfield::rleplus::Ranges\">Ranges</a>&lt;'_&gt;","synthetic":false,"types":["bitfield::rleplus::iter::Ranges"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

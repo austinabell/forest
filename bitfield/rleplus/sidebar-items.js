@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Ranges","An iterator over the ranges of 1s of RLE+ encoded data that has already been verified."],["RlePlus","An RLE+ encoded bit field."],["Runs","An iterator over the runs of 1s and 0s of RLE+ encoded data."]]});

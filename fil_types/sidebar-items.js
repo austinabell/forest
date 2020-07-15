@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["zero_piece_commitment",""]],"mod":[["sector",""]],"struct":[["PaddedPieceSize","Size of a piece in bytes with padding"],["PieceInfo",""],["UnpaddedPieceSize","Size of a piece in bytes"]]});
